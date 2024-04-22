@@ -8,11 +8,11 @@ const  {createwebtokens,validateToken}=require('./services/authentication');
 const cookieparser=require('cookie-parser');
 const {checkforauthentication} = require('./middleware/authentication');
 const Blog=require('./models/blog')
-const port=8004;
+const port=process.env.PORT ||8004;
 const app=express()
 
 
-mongoose.connect("mongodb://127.0.0.1:27017/blogify").
+mongoose.connect(process.env.MONGO_URL).
 then(e=>console.log("mongodb connected"))
 
 
