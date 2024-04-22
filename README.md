@@ -20,7 +20,7 @@ Blogify is a blog website where users can create and share their thoughts, ideas
 
 To run this project locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/Blogify.git`
+1. Clone this repository: `git clone  'https://github.com/vaibhav-bhosale1/Blogify-Add-Your-Blogs.git'
 2. Navigate to the project directory: `cd Blogify`
 3. Install dependencies: `npm install`
 4. Start the server: `npm run dev`
