@@ -30,7 +30,9 @@ router.get('/:id',async (req,res)=>{
     blog,
   })
 });
-
+router.get('/hoke',(req,res)=>{
+  return res.render('home1');
+})
 
 
 router.post("/",upload.single("coverImageURL"),async (req,res)=>{
