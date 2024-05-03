@@ -12,7 +12,7 @@ const port=process.env.PORT || 8008
 const app=express()
 
 
-mongoose.connect("mongodb://localhost:27017/blogify").
+mongoose.connect(process.env.MONGO_URL).
 then(e=>console.log("mongodb connected"))
 
 
