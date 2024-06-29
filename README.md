@@ -2,6 +2,11 @@
 
 Blogify is a blog website where users can create and share their thoughts, ideas, and experiences with the world. This README.md file provides an overview of the project and instructions for getting started.
 
+
+[<img src="https://img.youtube.com/vi/sUqSEC3822k/hqdefault.jpg" width="600" height="300"
+/>](https://youtu.be/sUqSEC3822k)
+
+
 ## Features
 
 - **User Authentication:** Users can create accounts, log in, and log out securely.
