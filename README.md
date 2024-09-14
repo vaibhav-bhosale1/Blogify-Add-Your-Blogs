@@ -7,6 +7,8 @@ Blogify is a blog website where users can create and share their thoughts, ideas
 />](https://youtu.be/sUqSEC3822k)
 
 
+-****CLICK ON THE ABOVE IMAGE TO GET PREVIEW OF WEBSITE**
+
 ## Features
 
 - **User Authentication:** Users can create accounts, log in, and log out securely.
